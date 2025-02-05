@@ -1,4 +1,4 @@
-# Quora-Duplicate-Question-Detection
+
 # Quora - Duplicate Question Detection
 Dataset can be found [here](https://www.kaggle.com/c/quora-question-pairs/data)  
 300-dimensional GloVe embeddings can be found [here](https://www.kaggle.com/datasets/thanakomsn/glove6b300dtxt)
